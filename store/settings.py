@@ -120,5 +120,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-# This is to add a custom user to our project.
+# This is to activate a custom user added to our project.
 AUTH_USER_MODEL = ("account.CustomUser")
